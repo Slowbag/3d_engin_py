@@ -1,6 +1,7 @@
 import pygame as pg
 from matrix_functions import *
 
+
 class Camera:
     def __init__(self, render, position):
         self.render = render
